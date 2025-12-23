@@ -29,7 +29,7 @@ These projects were built to solve real problems faced by security teams and TAM
 - Ensures critical alerts are addressed first
 - Prevents analyst burnout
 
-[📂 View Project 1](./project1/)
+[📂 View Project 1](https://github.com/guruskill7/Security-Automation-Portfolio/blob/main/project1_README.md)
 
 ---
 
@@ -47,7 +47,7 @@ These projects were built to solve real problems faced by security teams and TAM
 - Enables data-driven risk decisions
 - Improves security team credibility with executives
 
-[📂 View Project 2](./project2/)
+[📂 View Project 2](https://github.com/guruskill7/Security-Automation-Portfolio/blob/main/project2_README.md)
 
 ---
 
@@ -65,7 +65,7 @@ These projects were built to solve real problems faced by security teams and TAM
 - Demonstrates ongoing value during renewals
 - Automates manual audit work
 
-[📂 View Project 3](./project3/)
+[📂 View Project 3](https://github.com/guruskill7/Security-Automation-Portfolio/blob/main/project3_README.md)
 
 ---
 
